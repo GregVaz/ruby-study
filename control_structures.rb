@@ -1,5 +1,3 @@
-#!/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby
-#
 # Control Structures
 # Ruby uses the keyword *end* to signify the end of a body of all the control structures
 #
